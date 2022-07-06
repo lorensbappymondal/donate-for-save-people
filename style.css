@@ -160,3 +160,38 @@ input::placeholder{
     color: rgb(63, 63, 63);
     line-height: 24px;
 }
+
+#update{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.subscribe{
+    background-color: rgb(255, 232, 197);
+    width: 80%;
+    margin: 0 auto;
+    line-height: 150px;
+}
+input[type = email]{
+    width: 300px;
+    height: 30px;
+    margin-top: 60px;
+    outline: none;
+    border: none;
+    padding: 24px 20px;
+    background-color: rgb(180, 177, 177);
+    color: rgb(233, 231, 231);
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 5px 0 0 5px;
+}
+input::placeholder{
+    color: rgb(107, 100, 100);
+}
+.subscribe-btn{
+    text-decoration: none;
+    background-color: rgb(250, 152, 4);
+    padding: 15px 30px;
+    color: white;
+    margin-left: -4px;
+    border-radius: 0 5px 5px 0;
+}
