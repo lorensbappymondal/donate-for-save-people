@@ -132,3 +132,31 @@ input::placeholder{
 .education{
     background-color: rgb(255, 232, 197);
 }
+
+#our-work{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.work-chart{
+    display: flex;
+    flex-wrap: wrap;
+}
+.work{
+    width: 400px;
+    height: 400px;
+    margin: 10px;
+}
+.work > img{
+    width: 100%;
+    margin-bottom: 30px;
+}
+.work-title{
+    font-size: 20px;
+    color: rgb(59, 59, 59);
+    margin-bottom: 15px;
+}
+.work-brief{
+    font-size: 14px;
+    color: rgb(63, 63, 63);
+    line-height: 24px;
+}
