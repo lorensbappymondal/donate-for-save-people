@@ -28,11 +28,11 @@ body{
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-    color: white;
 }
 .header-title{
     font-size: 45px;
     margin-bottom: 30px;
+    color: rgb(250, 152, 4);
 }
 .header-brief{
     line-height: 28px;
@@ -55,7 +55,7 @@ body{
 }
 .content-title{
     font-size: 45px;
-    color: rgb(59, 59, 59);
+    color: rgb(250, 152, 4);
     margin-bottom: 30px;
 }
 .content-brief{
